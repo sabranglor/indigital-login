@@ -1,8 +1,0 @@
-# indigital-login
-INDIGITAL Team Testing Development
-
-Fetature: 
-
-Mailgun
-aklsdaf
-aslkdnfas
